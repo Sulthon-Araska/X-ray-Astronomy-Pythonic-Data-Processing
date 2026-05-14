@@ -1,4 +1,4 @@
-# X-ray Astronomy Pythonic Data Processing
+# **X-ray Astronomy Pythonic Data Processing Pipelines**
 A collection of non-official Python-based data processing pipelines for ([HEASARC](https://heasarc.gsfc.nasa.gov/)-listed) X-ray astronomical observation missions. The goal of these pipelines is to streamline the process of accessing, calibrating, cleaning, extracting, correcting, and merging raw observational data into high-level scientific data products (images, light curves, and spectra) for each observation.
 
 **_Disclaimer!_**
