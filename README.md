@@ -2,7 +2,7 @@
 A collection of non-official Python-based data processing pipelines for ([HEASARC](https://heasarc.gsfc.nasa.gov/)-listed) X-ray astronomical observation missions. The goal of these pipelines is to streamline the process of accessing, calibrating, cleaning, extracting, correcting, and merging raw observational data into high-level scientific data products (images, light curves, and spectra) for each observation.
 
 **_Disclaimer!_**
-This repository is still in early development. Currently, the developer has no fixed milestones for continuous development and may update it when time or urgency allows. Therefore, any improvements are highly welcome!
+This repository and the programs within are still in development. Currently, the developer has no fixed milestones for continuous development and may update it when time or urgency allows. Therefore, any improvements are highly welcome!
 
 
 ## **Important Links**
